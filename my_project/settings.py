@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'hello_world', # Add this line to the list of installed apps
+    'about' # Add this line to the list of installed apps
 ]
 
 MIDDLEWARE = [
